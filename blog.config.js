@@ -178,7 +178,7 @@ const BLOG = {
 
   //   ********挂件组件相关********
   // Chatbase 是否显示chatbase机器人 https://www.chatbase.co/
-  CHATBASE_ID: process.env.NEXT_PUBLIC_CHATBASE_ID || '',
+  CHATBASE_ID: process.env.NEXT_PUBLIC_CHATBASE_ID || 'R--U5xdTs4gnYeEJT3L90',
   
   // WebwhizAI 机器人 @see https://github.com/webwhiz-ai/webwhiz
   WEB_WHIZ_ENABLED: process.env.NEXT_PUBLIC_WEB_WHIZ_ENABLED || false, // 是否显示

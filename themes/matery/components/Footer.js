@@ -53,7 +53,7 @@ const Footer = ({ title }) => {
           <a
             href='https://wobshare.us.kg/admir'
             className='underline dark:text-gray-300'>
-            NotionNext {siteConfig('VERSION')}
+            赞赏 {siteConfig('VERSION')}
           </a>
           .
         </span>

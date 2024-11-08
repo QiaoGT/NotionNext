@@ -345,6 +345,13 @@ const BLOG = {
         'http://imge.kugou.com/stdmusic/20221008/20221008105215539681.jpg'
     },
     {
+      name: 'ありがとう… (谢谢…)',
+      artist: 'KOKIA',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/f32023c3-743e-4cad-a1ac-20a9b8a92905/KOKIA_-_%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86_(%E8%B0%A2%E8%B0%A2).mp3?table=block&id=ab20c709-dd47-4000-ac25-763ad3c717e8&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731160800000&signature=f5n_Vmi0T1d82x1ltjgo-h_f27K0D0icYwZmaFVlyPk&downloadName=KOKIA+-+%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%E2%80%A6+%28%E8%B0%A2%E8%B0%A2%E2%80%A6%29.mp3',
+      cover:
+        'http://p2.music.126.net/Oyai2N1oU4TOAQXitEqlgQ==/1674556209112992.jpg?param=130y130'
+    },
+    {
       name: '天ノ弱',
       artist: 'こはならむ',
       url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/fcd5d56b-86fa-4a22-9578-01d432803213/%E3%81%93%E3%81%AF%E3%81%AA%E3%82%89%E3%82%80_-_%E5%A4%A9%E3%83%8E%E5%BC%B1_(%E5%A4%A9%E4%B9%8B%E5%BC%B1).mp3?table=block&id=f9d2ef6c-44f6-4759-a5cf-3212e7d6b49d&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731153600000&signature=dXZaAqp-7iGghtXdTSoA6PnBwfb5n2Ivxzk3L3voLSM&downloadName=%E3%81%93%E3%81%AF%E3%81%AA%E3%82%89%E3%82%80+-+%E5%A4%A9%E3%83%8E%E5%BC%B1+%28%E5%A4%A9%E4%B9%8B%E5%BC%B1%29.mp3',
@@ -422,7 +429,7 @@ const BLOG = {
         'https://p2.music.126.net/hpNqEh7tm67YSoO2v0PvsA==/109951168607628485.jpg?param=130y130'
     },
     {
-      name: '美丽的神话',
+      name: 'DJ 美丽的神话',
       artist: 'Dj伦大人',
       url: 'https://mp4.djuu.com/c4/26/2023/83c3d719e0596aa1.m4a',
       cover:
@@ -436,35 +443,98 @@ const BLOG = {
         'https://img.djuu.com/cover/20231001/178be933.jpg'
     },
     {
-      name: '关于你的回忆DJ串烧',
+      name: '关于你的回忆 DJ串烧',
       artist: '南宁Dj阿罗',
       url: 'https://mp4.djuu.com/c2/16/2023/9b200505f8640380.m4a',
       cover:
         'https://img.djuu.com/cover/2023928/76fed753.jpg'
     },
     {
-      name: '如果说你是海上的烟火DJ越鼓串烧',
+      name: '如果说你是海上的烟火 DJ越鼓串烧',
       artist: 'Dj钢仔',
       url: 'https://mp4.djuu.com/c2/16/2023/83e2210c65611211.m4a',
       cover:
         'https://img.djuu.com/cover/2023928/0f6ee318.jpg'
     },
     {
-      name: '姑娘别哭泣DJ串烧',
+      name: '姑娘别哭泣 DJ串烧',
       artist: '湖南DjxGuo',
       url: 'https://mp4.djuu.com/c2/16/2023/9d76bdac28728599.m4a',
       cover:
         'https://img.djuu.com/cover/20231001/8cd458ac.jpg'
     },
     {
-      name: '百听不厌高速车载音乐v42串烧',
+      name: '百听不厌高速车载音乐v42 DJ串烧',
       artist: '中山DJ嘉敏',
       url: 'https://mp4.djuu.com/c2/16/2024/995fc7feca739531.m4a',
       cover:
         'https://img.djuu.com/cover/20231001/5a71e1c9.jpg'
     },
     {
-      name: '抖音流行DJ串烧',
+      name: 'Anima Libera',
+      artist: 'Fmoel',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/1e297784-1b72-4f92-bee1-46d77364a61a/Fmoel_-_Anima_Libera.mp3?table=block&id=b1318987-5fb1-4fb4-a1e7-4b80d3b55f6f&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731160800000&signature=4YuZk1w7swxu8DPBJyE2Bm9_J0PftEdh7D39xm4C1Ow&downloadName=Fmoel+-+Anima+Libera.mp3',
+      cover:
+        'https://imge.kugou.com/stdmusic/20231101/20231101125403972043.jpg'
+    },
+    {
+      name: '离人赋',
+      artist: '云汐',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/0a504b54-c5dd-4728-8dc6-6a0b7c0012c6/%E4%BA%91%E6%B1%90_-_%E7%A6%BB%E4%BA%BA%E8%B5%8B.mp3?table=block&id=5ddfd436-969d-484c-a820-ad37f31b57c2&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731160800000&signature=OFdH78u49rWUFL2gYJtEo2TwbSQY9w-r3ZUq0EK8Az0&downloadName=%E4%BA%91%E6%B1%90+-+%E7%A6%BB%E4%BA%BA%E8%B5%8B.mp3',
+      cover:
+        'https://p2.music.126.net/31br_7J70NzB9Ngbi2Um4g==/109951168042206199.jpg?param=130y130'
+    },
+    {
+      name: '灯火通明',
+      artist: '小蓝背心',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/713e3cd1-acdd-4572-bf5a-4740f136ac67/%E5%B0%8F%E8%93%9D%E8%83%8C%E5%BF%83_-_%E7%81%AF%E7%81%AB%E9%80%9A%E6%98%8E.mp3?table=block&id=eb94da94-b2e7-4ca8-8ef1-9c64daf331d7&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731160800000&signature=-XQjboG9KW4tPtDDx8OKOiKcu-p6ZTZVRRbo-F4ikoY&downloadName=%E5%B0%8F%E8%93%9D%E8%83%8C%E5%BF%83+-+%E7%81%AF%E7%81%AB%E9%80%9A%E6%98%8E.mp3',
+      cover:
+        'http://p2.music.126.net/d38VlMLVoS6S4yF8DreXzw==/109951168700655655.jpg?param=177y177'
+    },
+    {
+      name: '降临',
+      artist: '漆柚',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/bf955c78-5ca4-49c0-a3e5-8efabb957471/%E6%BC%86%E6%9F%9A_-_%E9%99%8D%E4%B8%B4.mp3?table=block&id=229d78d5-11b3-451a-b569-14bed5e6fdc5&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731160800000&signature=tZOduGRxs1Ir-4sHLCeZ5aL8f5S3F9QYx4BlFnqXbpk&downloadName=%E6%BC%86%E6%9F%9A+-+%E9%99%8D%E4%B8%B4.mp3',
+      cover:
+        'https://imge.kugou.com/stdmusic/20220516/20220516175312267912.jpg'
+    },
+    {
+      name: '坏女孩',
+      artist: '白允y',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/0d04f260-4b1b-4fe1-ac10-4e34459801aa/%E7%99%BD%E5%85%81y_-_%E5%9D%8F%E5%A5%B3%E5%AD%A9.mp3?table=block&id=653dfdb5-b6d0-4b83-84e8-b5bfbe94a1eb&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731160800000&signature=6Dtde-ZPtTrOqgGE7hrHql8EfcW96ixkVWcsRNM0UB4&downloadName=%E7%99%BD%E5%85%81y+-+%E5%9D%8F%E5%A5%B3%E5%AD%A9.mp3',
+      cover:
+        'http://p2.music.126.net/gskYwkKO6S8--GEoH144PA==/109951168822160401.jpg?param=177y177'
+    },
+    {
+      name: '你在我眼中绽放',
+      artist: '云汐',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/ea1f9a96-de25-4ce1-a235-9e48bd215795/%E4%BA%91%E6%B1%90_-_%E4%BD%A0%E5%9C%A8%E6%88%91%E7%9C%BC%E4%B8%AD%E7%BB%BD%E6%94%BE.mp3?table=block&id=7f659a85-71fa-469a-bf39-c69d36f1809b&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731160800000&signature=vn_8PzMiiEIxu-czd3u35IODny0WVtS5oGVgWAB2u_Q&downloadName=%E4%BA%91%E6%B1%90+-+%E4%BD%A0%E5%9C%A8%E6%88%91%E7%9C%BC%E4%B8%AD%E7%BB%BD%E6%94%BE.mp3',
+      cover:
+        'https://p1.music.126.net/uyzUfT7CiTdBHPly5Dnu9A==/109951168636710041.jpg?param=130y130'
+    },
+    {
+      name: '萤火',
+      artist: '糯米Nomi',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/896c2476-683d-4776-9d88-6f96bc6af249/%E7%B3%AF%E7%B1%B3Nomi_-_%E8%90%A4%E7%81%AB.mp3?table=block&id=40c9d0e3-be88-44aa-bac2-a6a4a97cc52c&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731160800000&signature=NDO19S82LmBRYSFRG11Q7l8Ra6QPBAfW_hwIl_0tuyY&downloadName=%E7%B3%AF%E7%B1%B3Nomi+-+%E8%90%A4%E7%81%AB.mp3',
+      cover:
+        'https://imgessl.kugou.com/stdmusic/20221121/20221121170742107298.jpg'
+    },
+    {
+      name: '一格格',
+      artist: 'Ayi阿怡',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/b4c684de-5307-4ba4-8e55-7e297851f5e4/Ayi%E9%98%BF%E6%80%A1_-_%E4%B8%80%E6%A0%BC%E6%A0%BC.mp3?table=block&id=f7d88478-8c3b-4972-aa15-5f6a2e4608f7&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731160800000&signature=MPS_wIhaDgI-aApa5N-IbF9gHEAI8W4UFYZDhpbYL-Q&downloadName=Ayi%E9%98%BF%E6%80%A1+-+%E4%B8%80%E6%A0%BC%E6%A0%BC.mp3',
+      cover:
+        'http://imge.kugou.com/stdmusic/20230417/20230417113118651691.jpg'
+    },
+    {
+      name: '朱雅 - DJ前度',
+      artist: '南宁Dj杰仔',
+      url: 'https://mp4.djuu.com/c4/22/2019/158a3b862c4cc58a.m4a',
+      cover:
+        'https://img.djuu.com/cover/201806/a65216.jpg'
+    },
+    {
+      name: '抖音流行 DJ串烧',
       artist: '网络歌手',
       url: 'https://mp4.djuu.com/c2/16/2024/48f743daeb837c40.m4a',
       cover:

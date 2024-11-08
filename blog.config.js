@@ -338,6 +338,13 @@ const BLOG = {
         'http://p2.music.126.net/vPCu8b7A5Fabjk5_OyXhHQ==/109951167917209214.jpg?param=130y130'
     },
     {
+      name: '点燃生命的光',
+      artist: '何婧',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/4f55eb86-cb5c-43c6-ad23-ca9795660fe6/%E4%BD%95%E5%A9%A7_-_%E7%82%B9%E7%87%83%E7%94%9F%E5%91%BD%E7%9A%84%E5%85%89.mp3?table=block&id=416e6433-bf4a-47c5-9ace-e37d9cc5cc87&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731175200000&signature=eW4VXl6kUIuL7HiLjPbdq1gGteZ7wTfB8D_mJBSXmCk&downloadName=%E4%BD%95%E5%A9%A7+-+%E7%82%B9%E7%87%83%E7%94%9F%E5%91%BD%E7%9A%84%E5%85%89.mp3',
+      cover:
+        'https://imgessl.kugou.com/stdmusic/20230630/20230630172218568654.jpg'
+    },
+    {
       name: '遗忘月光',
       artist: '陆杰awr、袁小葳',
       url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/a811f8ae-8025-4a1a-a029-cdac097eeee3/%E9%99%86%E6%9D%B0awr%E3%80%81%E8%A2%81%E5%B0%8F%E8%91%B3_-_%E9%81%97%E5%BF%98%E6%9C%88%E5%85%89.mp3?table=block&id=9996378b-93a2-41b3-a1d5-70fc46e43ad5&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731168000000&signature=0QknMeCn8LFAp8SYdZ8JDTMAbUEmn-3pc3Qmg3veKzk&downloadName=%E9%99%86%E6%9D%B0awr%E3%80%81%E8%A2%81%E5%B0%8F%E8%91%B3+-+%E9%81%97%E5%BF%98%E6%9C%88%E5%85%89.mp3',
@@ -345,11 +352,32 @@ const BLOG = {
         'https://imge.kugou.com/stdmusic/20230602/20230602155531170170.jpg'
     },
     {
+      name: '欲落的樱花',
+      artist: '初月',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/56503336-303a-49ac-8975-66e0df1325b5/%E5%88%9D%E6%9C%88_-_%E6%AC%B2%E8%90%BD%E7%9A%84%E6%A8%B1%E8%8A%B1.mp3?table=block&id=3ba0ebc6-b43b-49b3-9591-d92fd7fa2d0d&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731175200000&signature=1t3vTbUEKylKGJ79c62p5xjrN8SZpq263Kr0QKwboik&downloadName=%E5%88%9D%E6%9C%88+-+%E6%AC%B2%E8%90%BD%E7%9A%84%E6%A8%B1%E8%8A%B1.mp3',
+      cover:
+        'http://imge.kugou.com/stdmusic/20230726/20230726194907870032.jpg'
+    },
+    {
+      name: '相拥星空',
+      artist: '张洛一 ',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/7dcfbb8d-c91e-452b-931a-7d1268740407/%E5%BC%A0%E6%B4%9B%E4%B8%80_-_%E7%9B%B8%E6%8B%A5%E6%98%9F%E7%A9%BA.mp3?table=block&id=af7f6dfd-4047-40e7-b63c-3b03e743fc46&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731175200000&signature=OCnZTy7738vF2kkijXAOase9Ewqbq-AtAvv_hI3mRzM&downloadName=%E5%BC%A0%E6%B4%9B%E4%B8%80+-+%E7%9B%B8%E6%8B%A5%E6%98%9F%E7%A9%BA.mp3',
+      cover:
+        'http://imge.kugou.com/stdmusic/20220303/20220303154329708522.jpg'
+    },
+    {
       name: '星河回望',
       artist: '余又',
       url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/dadf5fc1-7024-474e-bc85-184a6dd33535/%E4%BD%99%E5%8F%88_-_%E6%98%9F%E6%B2%B3%E5%9B%9E%E6%9C%9B.mp3?table=block&id=d16bc320-5410-4876-94a7-0d58dbd3f0f3&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731168000000&signature=tWX8C983zB92oCce58NoR_8BIIRwYLeKBbtilfO9rD8&downloadName=%E4%BD%99%E5%8F%88+-+%E6%98%9F%E6%B2%B3%E5%9B%9E%E6%9C%9B.mp3',
       cover:
         'https://imge.kugou.com/stdmusic/20230601/20230601200247533844.jpg'
+    },
+    {
+      name: '藏刃',
+      artist: '甘璐、墨绛',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/41f489d2-8195-448f-abbb-5927449761bf/%E7%94%98%E7%92%90%E3%80%81%E5%A2%A8%E7%BB%9B_-_%E8%97%8F%E5%88%83.mp3?table=block&id=fb7dcaef-d89c-437d-b664-0f075fb95256&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731175200000&signature=PkBKAHxAtmDyzoKghujbWRJ3GkSoIRvOW3rbzDRx8z0&downloadName=%E7%94%98%E7%92%90%E3%80%81%E5%A2%A8%E7%BB%9B+-+%E8%97%8F%E5%88%83.mp3',
+      cover:
+        'http://p1.music.126.net/BUFVk-MfSQgGfH4tGabbmQ==/109951168111037785.jpg?param=130y130'
     },
     {
       name: '如果大雨下一整夜',
@@ -455,6 +483,41 @@ const BLOG = {
       url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/ebe35344-5d14-47db-a2de-edcfb98ea248/%E4%B8%8E%E6%88%91%E6%97%A0%E5%85%B3_-_%E9%98%BF%E5%86%97_(mp3cut.net).mp3?table=block&id=349bebb3-244a-4d43-b738-cae222919ddc&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731160800000&signature=uvu1ThOeB227tI8nriHV8IriQCAzicKkg-JHIzhmTu8&downloadName=%E4%B8%8E%E6%88%91%E6%97%A0%E5%85%B3+-+%E9%98%BF%E5%86%97+%28mp3cut.net%29.mp3',
       cover:
         'http://p2.music.126.net/x-jReyGkM5OTKUEtTqXGoA==/109951164597332931.jpg?param=130y130'
+    },
+    {
+      name: '邓紫棋 - DJ再见',
+      artist: 'DjRichz',
+      url: 'https://mp4.djuu.com/c4/26/2023/529879540cd5c896.m4a',
+      cover:
+        'http://p1.music.126.net/kVwk6b8Qdya8oDyGDcyAVA==/1364493930777368.jpg?param=130y130'
+    },
+    {
+      name: '阿刁哇 - DJ外婆的澎湖湾',
+      artist: 'DjRichz',
+      url: 'https://mp4.djuu.com/c4/26/2022/b79ba70077566f86.m4a',
+      cover:
+        'http://imge.kugou.com/stdmusic/20210806/20210806173928815991.jpg'
+    },
+    {
+      name: '崔子格 -DJ卜卦',
+      artist: 'Dj小海',
+      url: 'https://mp4.djuu.com/c4/26/2024/e3b1740ed78c255d.m4a',
+      cover:
+        'https://so1.360tres.com/dr/220__/t017a0d2875c5a92330.jpg'
+    },
+    {
+      name: '林怡婕 - DJ坏女孩',
+      artist: 'DjRichz',
+      url: 'https://mp4.djuu.com/c4/26/2022/039db02635b166d4.m4a',
+      cover:
+        'https://imgessl.kugou.com/uploadpic/softhead/400/20230420/20230420234517259572.jpg'
+    },
+    {
+      name: '张大蕾 - DJ日不落',
+      artist: 'DjRichz',
+      url: 'https://mp4.djuu.com/c4/26/2021/26cbadeddb2a53e9.m4a',
+      cover:
+        'https://imgessl.kugou.com/stdmusic/20200831/20200831163012470851.jpg'
     },
     {
       name: 'DJ 樱花树下的约定',
@@ -861,6 +924,111 @@ const BLOG = {
       url: 'https://mp4.djuu.com/c4/26/2024/2069e614b1b4dccf.m4a',
       cover:
         'https://imge.kugou.com/stdmusic/20220222/20220222060106813121.jpg'
+    },
+    {
+      name: '独处花园',
+      artist: '司南',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/a9f659d9-1a17-4486-9097-609e6c5742f5/%E5%8F%B8%E5%8D%97_-_%E7%8B%AC%E5%A4%84%E8%8A%B1%E5%9B%AD.mp3?table=block&id=060e13ec-ef2b-437a-b9f6-ddaf8e2179d6&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731175200000&signature=2GVINYoujjnVnqm7HYUgJ3UFpnG07ZwA-CwfM47OPC0&downloadName=%E5%8F%B8%E5%8D%97+-+%E7%8B%AC%E5%A4%84%E8%8A%B1%E5%9B%AD.mp3',
+      cover:
+        'http://p1.music.126.net/GwGp8uvwTLSDE8UtEg2R7Q==/109951168829911745.jpg?param=130y130'
+    },
+    {
+      name: '缺',
+      artist: '镜予歌、亡海Aries',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/3fca3800-9766-4cf4-9d5b-27f9144c35b1/%E9%95%9C%E4%BA%88%E6%AD%8C%E3%80%81%E4%BA%A1%E6%B5%B7Aries_-_%E7%BC%BA.mp3?table=block&id=73963379-5285-4b39-8278-497719299966&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731175200000&signature=7SpeMsuMBkhl-2gme6fOykxS-Ztp7dUteTJ3aApTMUc&downloadName=%E9%95%9C%E4%BA%88%E6%AD%8C%E3%80%81%E4%BA%A1%E6%B5%B7Aries+-+%E7%BC%BA.mp3',
+      cover:
+        'http://p2.music.126.net/CLKm7H15Dr1z_4QaX43ILA==/109951167906060738.jpg?param=130y130'
+    },
+    {
+      name: '相思酿成酒',
+      artist: '残雪',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/71ba8fec-0159-4f3a-8ca7-0686345f5990/%E6%AE%8B%E9%9B%AA_-_%E7%9B%B8%E6%80%9D%E9%85%BF%E6%88%90%E9%85%92.mp3?table=block&id=9e96b806-67c5-4962-a014-5d635ca2cf1f&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731175200000&signature=zKd4ylD4gK6lRCFeHQBIEhLROS1TOD2Z1I9XETRU-FQ&downloadName=%E6%AE%8B%E9%9B%AA+-+%E7%9B%B8%E6%80%9D%E9%85%BF%E6%88%90%E9%85%92.mp3',
+      cover:
+        'https://imgessl.kugou.com/stdmusic/20230315/20230315141140413714.jpg'
+    },
+    {
+      name: '夏日情书',
+      artist: '葛雨晴',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/69ae44c8-f85e-4307-b1c6-f2219cf8a620/%E8%91%9B%E9%9B%A8%E6%99%B4_-_%E5%A4%8F%E6%97%A5%E6%83%85%E4%B9%A6.mp3?table=block&id=825905e5-2173-4ef3-bbe5-fa24c8185fa8&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731175200000&signature=efiySwb8t9_PMmVy29iZGwmet4Yw97-i_jclnnuTyfY&downloadName=%E8%91%9B%E9%9B%A8%E6%99%B4+-+%E5%A4%8F%E6%97%A5%E6%83%85%E4%B9%A6.mp3',
+      cover:
+        'https://imgessl.kugou.com/stdmusic/20220817/20220817172410558153.jpg'
+    },
+    {
+      name: '辞归',
+      artist: '指尖笑',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/3d171aa0-9840-41a1-99fb-8ae29158d189/%E6%8C%87%E5%B0%96%E7%AC%91_-_%E8%BE%9E%E5%BD%92.mp3?table=block&id=9e512c76-f33a-4ccd-9f48-5cb7f32a24b0&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731175200000&signature=k7w8IOVMJA8x7It2Bywd5OlkQCaud2zs2m8qOYsMRCo&downloadName=%E6%8C%87%E5%B0%96%E7%AC%91+-+%E8%BE%9E%E5%BD%92.mp3',
+      cover:
+        'https://lineimg.omusic.com.tw/img/album/5974483.jpg?v=20220713195301'
+    },
+    {
+      name: '变脸',
+      artist: '阿禹ayy',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/8d0e7e2d-a4f1-4b53-a0f6-31509ff283e2/%E9%98%BF%E7%A6%B9ayy_-_%E5%8F%98%E8%84%B8.mp3?table=block&id=6bac63ae-0984-4f62-9faf-2cb5ae690a20&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731175200000&signature=smbVA90Md-DbnGARq71fQdE4nGO9K9vXLB8xmL6I-2w&downloadName=%E9%98%BF%E7%A6%B9ayy+-+%E5%8F%98%E8%84%B8.mp3',
+      cover:
+        'http://imge.kugou.com/stdmusic/20230407/20230407110347789470.jpg'
+    },
+    {
+      name: '催熟',
+      artist: '欧阳朵',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/de5e73ba-7556-49bd-ad9e-31e46fb08ba8/%E6%AC%A7%E9%98%B3%E6%9C%B5_-_%E5%82%AC%E7%86%9F.mp3?table=block&id=7150f008-5348-43ce-b6c7-4daf5f7e77e1&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731175200000&signature=iOVUr5Vr1yyIc-91lG9R7rFYFPMadxyR0ox8mlu2h3g&downloadName=%E6%AC%A7%E9%98%B3%E6%9C%B5+-+%E5%82%AC%E7%86%9F.mp3',
+      cover:
+        'http://p2.music.126.net/3R5P9-kPkt0vJJszEw0INA==/109951168602510691.jpg?param=130y130'
+    },
+    {
+      name: '阿比拿铁',
+      artist: '三无Marblue',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/cb909ccd-0b85-42ff-9e4e-8ef9d423597a/%E4%B8%89%E6%97%A0Marblue_-_%E9%98%BF%E6%AF%94%E6%8B%BF%E9%93%81.mp3?table=block&id=bbbe0bd8-7c68-40d8-8301-7a290b7bfeac&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731175200000&signature=vM2RDTNvOBSN3dhjovnvrtSsXPNC_IrqETwyal-0TWU&downloadName=%E4%B8%89%E6%97%A0Marblue+-+%E9%98%BF%E6%AF%94%E6%8B%BF%E9%93%81.mp3',
+      cover:
+        'http://p1.music.126.net/p7gcA3P_iGfq-yaG8NAHyQ==/109951167420757780.jpg?param=130y130'
+    },
+    {
+      name: '我的眼泪你的战利品',
+      artist: '于冬然',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/04eeb07d-7139-4f58-9708-b5a14429576e/%E4%BA%8E%E5%86%AC%E7%84%B6_-_%E6%88%91%E7%9A%84%E7%9C%BC%E6%B3%AA%E4%BD%A0%E7%9A%84%E6%88%98%E5%88%A9%E5%93%81.mp3?table=block&id=a21ce491-65b5-4262-8cdd-6d565f2297dd&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731175200000&signature=jFRTl9zZ2W2fllFna02LXQg4bdnHzLwhWrQZeXaIp50&downloadName=%E4%BA%8E%E5%86%AC%E7%84%B6+-+%E6%88%91%E7%9A%84%E7%9C%BC%E6%B3%AA%E4%BD%A0%E7%9A%84%E6%88%98%E5%88%A9%E5%93%81.mp3',
+      cover:
+        'http://imge.kugou.com/stdmusic/20240822/20240822161714248710.jpg'
+    },
+    {
+      name: '这个冬天一起看雪',
+      artist: 'K.D',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/62d181d9-0037-470c-987a-aa27b82d34e2/K.D_-_%E8%BF%99%E4%B8%AA%E5%86%AC%E5%A4%A9%E4%B8%80%E8%B5%B7%E7%9C%8B%E9%9B%AA.mp3?table=block&id=986b64b0-8d11-4866-b245-98026133e5d5&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731175200000&signature=Ysp8eMvGMfB3M-3w960wfTnwGMd7l3W0VR_HwLF2ex8&downloadName=K.D+-+%E8%BF%99%E4%B8%AA%E5%86%AC%E5%A4%A9%E4%B8%80%E8%B5%B7%E7%9C%8B%E9%9B%AA.mp3',
+      cover:
+        'https://imgessl.kugou.com/stdmusic/20221006/20221006163919744246.jpg'
+    },
+    {
+      name: '梦涵 - DJ爱的故事上集',
+      artist: 'DjRichz',
+      url: 'https://mp4.djuu.com/c4/26/2023/cbdc7e8ac669aad0.m4a',
+      cover:
+        'http://imge.kugou.com/stdmusic/20180119/20180119195945318456.jpg'
+    },
+    {
+      name: '小5 - DJ说一句我不走了',
+      artist: 'DjRichz',
+      url: 'https://mp4.djuu.com/c4/26/2023/f793496b26ea97b2.m4a',
+      cover:
+        'https://imgessl.kugou.com/stdmusic/20150718/20150718224349751478.jpg'
+    },
+    {
+      name: '温奕心 - DJ一路生花',
+      artist: 'DjRichz',
+      url: 'https://mp4.djuu.com/c4/26/2021/013824108c974246.m4a',
+      cover:
+        'http://imge.kugou.com/stdmusic/20240807/20240807180417321818.jpg'
+    },
+    {
+      name: '陈之 - DJ月亮惹的祸',
+      artist: 'Dj阿福',
+      url: 'https://mp4.djuu.com/c4/26/2024/d41c7d265cad3cbd.m4a',
+      cover:
+        'http://p1.music.126.net/4LuKCZHLwmXLBeTY_t0Qjw==/109951164781178865.jpg?param=130y130'
+    },
+    {
+      name: '田馥甄 - DJ你就不要想起我',
+      artist: 'Dj尤宏',
+      url: 'https://mp4.djuu.com/c4/26/2024/0594b41f5be3e438.m4a',
+      cover:
+        'https://imgessl.kugou.com/uploadpic/softhead/400/20230818/20230818170841782.jpg'
     },
     {
       name: '抖音流行 DJ串烧',

@@ -527,11 +527,74 @@ const BLOG = {
         'http://imge.kugou.com/stdmusic/20230417/20230417113118651691.jpg'
     },
     {
+      name: '李如意 - DJ明天会更好',
+      artist: 'Dj桃子阿',
+      url: 'https://mp4.djuu.com/c4/26/2022/fb617d40cbda523e.m4a',
+      cover:
+        'https://img.djuu.com/cover/202209/4b7313.jpg'
+    },
+    {
       name: '朱雅 - DJ前度',
       artist: '南宁Dj杰仔',
       url: 'https://mp4.djuu.com/c4/22/2019/158a3b862c4cc58a.m4a',
       cover:
         'https://img.djuu.com/cover/201806/a65216.jpg'
+    },
+    {
+      name: '陈一发儿 - DJ童话镇',
+      artist: '贺州Dj小林',
+      url: 'https://mp4.djuu.com/c4/26/2019/65de0fb3aa3265d9.m4a',
+      cover:
+        'https://img.djuu.com/cover/201806/75f079.jpg'
+    },
+    {
+      name: 'DJ鞠文娴 - BINGBIAN病变',
+      artist: 'Dj小晨',
+      url: 'https://mp4.djuu.com/c4/24/2018/eb16d5270ed9bc2c.m4a',
+      cover:
+        'https://img.djuu.com/cover/202309/873fe7.jpg'
+    },
+    {
+      name: 'Sing倩儿 - DJ体面',
+      artist: 'Dj十三',
+      url: 'https://mp4.djuu.com/c4/25/2018/518b533c4486f502.m4a',
+      cover:
+        'https://img.djuu.com/cover/2023929/1ed7980b.jpg'
+    },
+    {
+      name: 'Simyee陈芯怡 - DJ青花瓷',
+      artist: '岑溪DJ辉仔',
+      url: 'https://mp4.djuu.com/c115/41838/117/2024/9c295b685669459e.m4a',
+      cover:
+        'https://img.djuu.com/cover/2023928/18ef1c35.jpg'
+    },
+    {
+      name: '邓紫棋 - DJ我的秘密',
+      artist: 'Dj小罗',
+      url: 'https://mp4.djuu.com/c4/26/2023/8414bd05d5b14f09.m4a',
+      cover:
+        'https://img.djuu.com/cover/201806/a965f7.jpg'
+    },
+    {
+      name: '邓紫棋 - DJ来自天堂的魔鬼',
+      artist: '网络歌手',
+      url: 'https://mp4.djuu.com/c4/107/2022/fc2ef1eb77f3cbe8.m4a',
+      cover:
+        'http://p1.music.126.net/kVwk6b8Qdya8oDyGDcyAVA==/1364493930777368.jpg?param=130y130'
+    },
+    {
+      name: '曲肖冰 - 谁',
+      artist: 'Dj光头',
+      url: 'https://mp4.djuu.com/c4/26/2024/d09d0c752b54c40c.m4a',
+      cover:
+        'https://img.djuu.com/cover/202202/8e48bb.jpg'
+    },
+    {
+      name: '指尖笑 - 不问别离',
+      artist: 'Dj可仔',
+      url: 'https://mp4.djuu.com/c4/26/2024/6af3faaa53f6382a.m4a',
+      cover:
+        'http://p2.music.126.net/CngdcKlEeF9AwfTcKbQFpQ==/109951168592751340.jpg?param=130y130'
     },
     {
       name: '抖音流行 DJ串烧',

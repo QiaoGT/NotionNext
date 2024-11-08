@@ -398,7 +398,7 @@ const BLOG = {
       artist: '恒升Dj阿宸',
       url: 'https://mp4.djuu.com/c4/22/2023/8fca73cdadc27c40.m4a',
       cover:
-        'http'
+        'https://img.djuu.com/cover/202206/1a3194.jpg'
     },
     {
       name: 'DJ 希望你被这个世界爱着',
@@ -422,11 +422,18 @@ const BLOG = {
         'https://p2.music.126.net/hpNqEh7tm67YSoO2v0PvsA==/109951168607628485.jpg?param=130y130'
     },
     {
+      name: '美丽的神话',
+      artist: 'Dj伦大人',
+      url: 'https://mp4.djuu.com/c4/26/2023/83c3d719e0596aa1.m4a',
+      cover:
+        'https://img.djuu.com/cover/201902/bb2057.jpg'
+    },
+    {
       name: 'DJ 说好的幸福',
       artist: 'DJ东东',
       url: 'https://mp4.djuu.com/c115/64152/117/2024/18149d5798764ca4.m4a',
       cover:
-        'http'
+        'https://img.djuu.com/cover/20231001/178be933.jpg'
     },
     {
       name: '关于你的回忆DJ串烧',
@@ -440,7 +447,7 @@ const BLOG = {
       artist: 'Dj钢仔',
       url: 'https://mp4.djuu.com/c2/16/2023/83e2210c65611211.m4a',
       cover:
-        'http'
+        'https://img.djuu.com/cover/2023928/0f6ee318.jpg'
     },
     {
       name: '姑娘别哭泣DJ串烧',

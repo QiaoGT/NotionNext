@@ -311,7 +311,7 @@ const BLOG = {
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
       name: '若是月亮还没来',
-      artist: '王宇宙Leto和乔浚丞',
+      artist: '王宇宙Leto / 乔浚丞',
       url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/5d230b8d-f8a4-4e98-a7fd-f18af361f738/%E8%8B%A5%E6%9C%88%E4%BA%AE%E6%B2%A1%E6%9D%A5_(%E8%8B%A5%E6%98%AF%E6%9C%88%E4%BA%AE%E8%BF%98%E6%B2%A1%E6%9D%A5)_-_%E7%8E%8B%E5%AE%87%E5%AE%99Leto%E3%80%81%E4%B9%94%E6%B5%9A%E4%B8%9E.mp3?table=block&id=69535408-6026-4f57-b5f9-645cbc76d59a&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731153600000&signature=6ev7-HKKAntvJdDpe9L4IRdvs1evWp7bPfNmhWINRbE&downloadName=%E8%8B%A5%E6%9C%88%E4%BA%AE%E6%B2%A1%E6%9D%A5+%28%E8%8B%A5%E6%98%AF%E6%9C%88%E4%BA%AE%E8%BF%98%E6%B2%A1%E6%9D%A5%29+-+%E7%8E%8B%E5%AE%87%E5%AE%99Leto%E3%80%81%E4%B9%94%E6%B5%9A%E4%B8%9E.mp3',
       cover:
         'https://imgessl.kugou.com/stdmusic/20240122/20240122171638637928.jpg'
@@ -336,6 +336,27 @@ const BLOG = {
       url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/eefc3890-4dce-46db-acbd-1ede0d7d4e65/%E8%8A%8A%E8%8A%8A%E9%BE%8D_-_Da_Da_Da_(%E7%94%9C%E5%A6%B9%E7%89%88)_MQ.mp3?table=block&id=fbeb2779-2dc9-492c-8b81-631e722eaf1e&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731153600000&signature=uDQP_wzyFRdzxFOK3CHgwude3TPF-zCQVjEO5d-KOWA&downloadName=%E8%8A%8A%E8%8A%8A%E9%BE%8D+-+Da+Da+Da+%28%E7%94%9C%E5%A6%B9%E7%89%88%29_MQ.mp3',
       cover:
         'https://p2.music.126.net/ifjrMa4g6_oV1pe0ruR53A==/109951169432548463.jpg?param=130y130'
+    },
+    {
+      name: '缺氧',
+      artist: '轩姨(相信光)',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/e7e98fb1-6914-416c-a8ea-5c03cee562a5/%E8%BD%A9%E5%A7%A8(%E7%9B%B8%E4%BF%A1%E5%85%89)_-_%E7%BC%BA%E6%B0%A7.mp3?table=block&id=dda30a52-c88d-4058-bcb9-b0cb60580722&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731153600000&signature=Jmxe82f5gjODsVpNwdrRbNxBn57JmO75FDtY7cjkN4U&downloadName=%E8%BD%A9%E5%A7%A8%28%E7%9B%B8%E4%BF%A1%E5%85%89%29+-+%E7%BC%BA%E6%B0%A7.mp3',
+      cover:
+        'http://imge.kugou.com/stdmusic/20221008/20221008105215539681.jpg'
+    },
+    {
+      name: '天ノ弱',
+      artist: 'こはならむ',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/fcd5d56b-86fa-4a22-9578-01d432803213/%E3%81%93%E3%81%AF%E3%81%AA%E3%82%89%E3%82%80_-_%E5%A4%A9%E3%83%8E%E5%BC%B1_(%E5%A4%A9%E4%B9%8B%E5%BC%B1).mp3?table=block&id=f9d2ef6c-44f6-4759-a5cf-3212e7d6b49d&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731153600000&signature=dXZaAqp-7iGghtXdTSoA6PnBwfb5n2Ivxzk3L3voLSM&downloadName=%E3%81%93%E3%81%AF%E3%81%AA%E3%82%89%E3%82%80+-+%E5%A4%A9%E3%83%8E%E5%BC%B1+%28%E5%A4%A9%E4%B9%8B%E5%BC%B1%29.mp3',
+      cover:
+        'http://p2.music.126.net/SNANZcu5PhfvFvM5Fuq_Rw==/109951167964524207.jpg?param=130y130'
+    },
+    {
+      name: 'Used to Losing You',
+      artist: 'Helloworld / JT Roach / Blanke / Luma',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/1edbc56f-d9ab-4cca-ba91-de79fe00e013/HELLOWORLD%E3%80%81JT_Roach%E3%80%81Blanke%E3%80%81Luma_-_Used_to_Losing_You_(Explicit).mp3?table=block&id=c2304809-2bcd-4c10-8004-039a9c6a048c&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731153600000&signature=L3n_KfxQcqt3W3pSR80sYKRs3ZrNeNlktS-rkxp7J8c&downloadName=HELLOWORLD%E3%80%81JT+Roach%E3%80%81Blanke%E3%80%81Luma+-+Used+to+Losing+You+%28Explicit%29.mp3',
+      cover:
+        'http://p2.music.126.net/SNANZcu5PhfvFvM5Fuq_Rw==/109951167964524207.jpg?param=130y130'
     },
     {
       name: 'DJ Faded Slowed V4',

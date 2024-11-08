@@ -310,11 +310,11 @@ const BLOG = {
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
-      name: '风を共に舞う気持ち',
-      artist: 'Falcom Sound Team jdk',
-      url: 'https://music.163.com/song/media/outer/url?id=731419.mp3',
+      name: '若是月亮还没来',
+      artist: '王宇宙Leto和乔浚丞',
+      url: 'https://webfs.kugou.com/202411081728/dd4d617bbeea6924717ddaff6d6e817a/v3/8b5836e7474f767ea74d8fac45413344/yp/p_0_960141/ap1014_us0_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx591001466_s3156637331.mp3',
       cover:
-        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+        'https://imgessl.kugou.com/stdmusic/20240122/20240122171638637928.jpg'
     },
     {
       name: '王都グランセル',

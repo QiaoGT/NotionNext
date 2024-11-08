@@ -324,6 +324,27 @@ const BLOG = {
         'https://imgessl.kugou.com/stdmusic/20220811/20220811174703769289.jpg'
     },
     {
+      name: '那个远方',
+      artist: '陈楚生',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/c12b7231-9fd0-4380-ae9a-0b96de014efe/%E9%99%88%E6%A5%9A%E7%94%9F_-_%E9%82%A3%E4%B8%AA%E8%BF%9C%E6%96%B9.mp3?table=block&id=e92cd334-bd01-4dd7-a571-9eab8b172fd3&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731153600000&signature=WbBMY21bu1j_gFAveP3_bchFJfaBIsV_DrVtNXjuZXo&downloadName=%E9%99%88%E6%A5%9A%E7%94%9F+-+%E9%82%A3%E4%B8%AA%E8%BF%9C%E6%96%B9.mp3',
+      cover:
+        'http://p2.music.126.net/0OuSHTLwYv237yyGwVlx_A==/3352410953143847.jpg?param=130y130'
+    },
+    {
+      name: 'Da Da Da (甜妹版)',
+      artist: '芊芊龍',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/eefc3890-4dce-46db-acbd-1ede0d7d4e65/%E8%8A%8A%E8%8A%8A%E9%BE%8D_-_Da_Da_Da_(%E7%94%9C%E5%A6%B9%E7%89%88)_MQ.mp3?table=block&id=fbeb2779-2dc9-492c-8b81-631e722eaf1e&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731153600000&signature=uDQP_wzyFRdzxFOK3CHgwude3TPF-zCQVjEO5d-KOWA&downloadName=%E8%8A%8A%E8%8A%8A%E9%BE%8D+-+Da+Da+Da+%28%E7%94%9C%E5%A6%B9%E7%89%88%29_MQ.mp3',
+      cover:
+        'https://p2.music.126.net/ifjrMa4g6_oV1pe0ruR53A==/109951169432548463.jpg?param=130y130'
+    },
+    {
+      name: 'DJ Faded Slowed V4',
+      artist: 'Ada DJ',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/b99f56f1-7fcb-4a7a-b584-f1b68884ed68/Ada_DJ_-_DJ_Faded_Slowed_V4.mp3?table=block&id=5086b90d-d52c-491e-81d1-fcc51de9f68e&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731153600000&signature=Kt938UDBJisajQM_VYhsy4cCKbmaNgYfFzPYTN4YFF0&downloadName=Ada+DJ+-+DJ+Faded+Slowed+V4.mp3',
+      cover:
+        'https://p2.music.126.net/hpNqEh7tm67YSoO2v0PvsA==/109951168607628485.jpg?param=130y130'
+    },
+    {
       name: '抖音流行DJ串烧',
       artist: '网络歌手',
       url: 'https://mp4.djuu.com/c2/16/2024/48f743daeb837c40.m4a',

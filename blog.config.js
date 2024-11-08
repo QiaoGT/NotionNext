@@ -583,18 +583,88 @@ const BLOG = {
         'http://p1.music.126.net/kVwk6b8Qdya8oDyGDcyAVA==/1364493930777368.jpg?param=130y130'
     },
     {
-      name: '曲肖冰 - 谁',
+      name: '曲肖冰 - DJ谁',
       artist: 'Dj光头',
       url: 'https://mp4.djuu.com/c4/26/2024/d09d0c752b54c40c.m4a',
       cover:
         'https://img.djuu.com/cover/202202/8e48bb.jpg'
     },
     {
-      name: '指尖笑 - 不问别离',
+      name: '指尖笑 - DJ不问别离',
       artist: 'Dj可仔',
       url: 'https://mp4.djuu.com/c4/26/2024/6af3faaa53f6382a.m4a',
       cover:
         'http://p2.music.126.net/CngdcKlEeF9AwfTcKbQFpQ==/109951168592751340.jpg?param=130y130'
+    },
+    {
+      name: '收购美好',
+      artist: '黄文文',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/dab8ae33-eae7-4077-8c00-94afdbdce3ab/%E9%BB%84%E6%96%87%E6%96%87_-_%E6%94%B6%E8%B4%AD%E7%BE%8E%E5%A5%BD.mp3?table=block&id=578fbc79-5b57-4aff-9d98-9640ecc4abb8&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731168000000&signature=TY2pE-Qg2RYvsfV_rbncqxXx6eAyjxEbhtUTBBrXO4U&downloadName=%E9%BB%84%E6%96%87%E6%96%87+-+%E6%94%B6%E8%B4%AD%E7%BE%8E%E5%A5%BD.mp3',
+      cover:
+        'https://imge.kugou.com/stdmusic/20200225/20200225175718988729.jpg'
+    },
+    {
+      name: '无归',
+      artist: '咻咻满',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/d0dfce75-f3aa-4838-a3e7-9a6b4ecd1a7c/%E5%92%BB%E5%92%BB%E6%BB%A1_-_%E6%97%A0%E5%BD%92.mp3?table=block&id=edb9cd06-ff52-4063-9bcb-11daf64c081e&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731168000000&signature=Ne2G80nt8Dv9UaPTxANqw71bkFAwjMFrQ7qTXoNFiRU&downloadName=%E5%92%BB%E5%92%BB%E6%BB%A1+-+%E6%97%A0%E5%BD%92.mp3',
+      cover:
+        'http://p1.music.126.net/7YeE_wdkWlyROCzQ-HuMPA==/109951168600979306.jpg?param=130y130'
+    },
+    {
+      name: '半阙',
+      artist: '灼夭',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/8f148f3d-c2d7-4a31-8202-02382e3e55ef/%E7%81%BC%E5%A4%AD_-_%E5%8D%8A%E9%98%99.mp3?table=block&id=0d13f618-04ab-413c-8af6-09a9e573618f&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731168000000&signature=7H59vb3TDvBEjDqpvuolquLZT1gVgEHA86WHnPldo2g&downloadName=%E7%81%BC%E5%A4%AD+-+%E5%8D%8A%E9%98%99.mp3',
+      cover:
+        'http://p2.music.126.net/ZtGenDZY8CT4gsQ8Sn_l2Q==/109951167949078988.jpg?param=177y177'
+    },
+    {
+      name: '夏天和你拥入怀中',
+      artist: 'LBI利比（时柏尘）',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/8bc856f9-3335-4443-a14d-a92b749d02e6/LBI%E5%88%A9%E6%AF%94%EF%BC%88%E6%97%B6%E6%9F%8F%E5%B0%98%EF%BC%89_-_%E5%A4%8F%E5%A4%A9%E5%92%8C%E4%BD%A0%E6%8B%A5%E5%85%A5%E6%80%80%E4%B8%AD.mp3?table=block&id=cd9999fa-ad06-4bb7-a0b8-ee36d8e63a04&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731168000000&signature=PigUz35YBudj42IgPUGvm8Le58BhGk7JMv-JXxf6bbo&downloadName=LBI%E5%88%A9%E6%AF%94%EF%BC%88%E6%97%B6%E6%9F%8F%E5%B0%98%EF%BC%89+-+%E5%A4%8F%E5%A4%A9%E5%92%8C%E4%BD%A0%E6%8B%A5%E5%85%A5%E6%80%80%E4%B8%AD.mp3',
+      cover:
+        'http://p2.music.126.net/h8VEJA2lZKepM12-rFdnhQ==/109951168663851535.jpg?param=130y130'
+    },
+    {
+      name: '最后一页 (清新版)',
+      artist: 'Ssweetxin',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/eacedf1b-f249-4b31-9e77-a9f69b2b99fb/Ssweetxin__-_%E6%9C%80%E5%90%8E%E4%B8%80%E9%A1%B5_(%E6%B8%85%E6%96%B0%E7%89%88).mp3?table=block&id=b3759095-a3c2-4566-a0a3-84de48a07f63&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731168000000&signature=jOvXycKOfMAQGJPC1wesJILmfKIjF_2WyTnBp45D5XI&downloadName=Ssweetxin_+-+%E6%9C%80%E5%90%8E%E4%B8%80%E9%A1%B5+%28%E6%B8%85%E6%96%B0%E7%89%88%29.mp3',
+      cover:
+        'http://p2.music.126.net/XvVUZQTCxmhjNOcfEnJYew==/109951163610134059.jpg?param=130y130'
+    },
+    {
+      name: '此刻的风',
+      artist: '承桓',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/7564888d-86c8-4735-a938-1473ec8a2582/%E6%89%BF%E6%A1%93_-_%E6%AD%A4%E5%88%BB%E7%9A%84%E9%A3%8E.mp3?table=block&id=659591ca-b5c8-41de-9c5a-e625867c4825&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731168000000&signature=wCRqoAfHUQmVEIe7ty7wClrb1E_10lcU1YAL72SzeZM&downloadName=%E6%89%BF%E6%A1%93+-+%E6%AD%A4%E5%88%BB%E7%9A%84%E9%A3%8E.mp3',
+      cover:
+        'http://p1.music.126.net/daqrD4GyZ5oxsOpf0rjT-A==/109951169482646177.jpg?param=130y130'
+    },
+    {
+      name: '携风予你',
+      artist: '小蓝背心',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/8a77f6aa-3712-4cb2-8062-9b0cc437fd54/%E5%B0%8F%E8%93%9D%E8%83%8C%E5%BF%83_-_%E6%90%BA%E9%A3%8E%E4%BA%88%E4%BD%A0.mp3?table=block&id=95941595-2b9d-4762-8ffc-0d37f66c6de5&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731168000000&signature=KxNfF9w7CblJJFFTNsOsQQ7qQebGmnXMdmndsiEejfU&downloadName=%E5%B0%8F%E8%93%9D%E8%83%8C%E5%BF%83+-+%E6%90%BA%E9%A3%8E%E4%BA%88%E4%BD%A0.mp3',
+      cover:
+        'https://p1.music.126.net/GEKfzvI0Op5T_8Z-jm0bqA==/109951167523680350.jpg?param=130y130'
+    },
+    {
+      name: '满江红遍',
+      artist: '玄觞',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/49d1275a-e49a-406e-8d8d-bf95d41cae5f/%E7%8E%84%E8%A7%9E_-_%E6%BB%A1%E6%B1%9F%E7%BA%A2%E9%81%8D.mp3?table=block&id=92b9bd07-91f6-4cf8-88c8-9ff8c39b5ce1&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731168000000&signature=2T7eyU3aCftTDsSAdPFAaZ6wyaCbTFKTaVd29qI2Vbw&downloadName=%E7%8E%84%E8%A7%9E+-+%E6%BB%A1%E6%B1%9F%E7%BA%A2%E9%81%8D.mp3',
+      cover:
+        'https://imge.kugou.com/stdmusic/20230331/20230331160157822368.jpg'
+    },
+    {
+      name: '等一个对的人',
+      artist: '范茹',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/4a0c248c-2c5c-47c0-b0c6-8bd150834227/%E8%8C%83%E8%8C%B9_-_%E7%AD%89%E4%B8%80%E4%B8%AA%E5%AF%B9%E7%9A%84%E4%BA%BA.mp3?table=block&id=883ec1d2-a246-4d61-bc03-7ab66a09285d&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731168000000&signature=FTOzOm3Z_HxIGcLLK9TVm1xKU85tRuEPH2E1LJ5MhrI&downloadName=%E8%8C%83%E8%8C%B9+-+%E7%AD%89%E4%B8%80%E4%B8%AA%E5%AF%B9%E7%9A%84%E4%BA%BA.mp3',
+      cover:
+        'https://imge.kugou.com/stdmusic/20230608/20230608154436146620.jpg'
+    },
+    {
+      name: '在等',
+      artist: '陈亦洺、罗文Rown',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/43c95bd0-1ef3-42cc-ab48-c6684cbeb276/%E9%99%88%E4%BA%A6%E6%B4%BA%E3%80%81%E7%BD%97%E6%96%87Rown_-_%E5%9C%A8%E7%AD%89.mp3?table=block&id=aafdfabf-d3dc-4670-b891-465d35999ccc&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731168000000&signature=WwUFIxpr5p_if-zUmoD4CKolqOx9YBI_73LjHeSVpbA&downloadName=%E9%99%88%E4%BA%A6%E6%B4%BA%E3%80%81%E7%BD%97%E6%96%87Rown+-+%E5%9C%A8%E7%AD%89.mp3',
+      cover:
+        'https://imgessl.kugou.com/stdmusic/20230707/20230707145719742668.jpg'
     },
     {
       name: '抖音流行 DJ串烧',

@@ -312,7 +312,7 @@ const BLOG = {
     {
       name: '若是月亮还没来',
       artist: '王宇宙Leto和乔浚丞',
-      url: 'https://webfs.kugou.com/202411081728/dd4d617bbeea6924717ddaff6d6e817a/v3/8b5836e7474f767ea74d8fac45413344/yp/p_0_960141/ap1014_us0_mii0w1iw8z2ai2iphcu80ooo2ki81120_pi406_mx591001466_s3156637331.mp3',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/5d230b8d-f8a4-4e98-a7fd-f18af361f738/%E8%8B%A5%E6%9C%88%E4%BA%AE%E6%B2%A1%E6%9D%A5_(%E8%8B%A5%E6%98%AF%E6%9C%88%E4%BA%AE%E8%BF%98%E6%B2%A1%E6%9D%A5)_-_%E7%8E%8B%E5%AE%87%E5%AE%99Leto%E3%80%81%E4%B9%94%E6%B5%9A%E4%B8%9E.mp3?table=block&id=69535408-6026-4f57-b5f9-645cbc76d59a&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731153600000&signature=6ev7-HKKAntvJdDpe9L4IRdvs1evWp7bPfNmhWINRbE&downloadName=%E8%8B%A5%E6%9C%88%E4%BA%AE%E6%B2%A1%E6%9D%A5+%28%E8%8B%A5%E6%98%AF%E6%9C%88%E4%BA%AE%E8%BF%98%E6%B2%A1%E6%9D%A5%29+-+%E7%8E%8B%E5%AE%87%E5%AE%99Leto%E3%80%81%E4%B9%94%E6%B5%9A%E4%B8%9E.mp3',
       cover:
         'https://imgessl.kugou.com/stdmusic/20240122/20240122171638637928.jpg'
     },
@@ -324,11 +324,11 @@ const BLOG = {
         'https://imgessl.kugou.com/stdmusic/20220811/20220811174703769289.jpg'
     },
     {
-      name: '王都グランセル',
-      artist: 'Falcom Sound Team jdk',
-      url: 'https://music.163.com/song/media/outer/url?id=731355.mp3',
+      name: '抖音流行DJ串烧',
+      artist: '网络歌手',
+      url: 'https://mp4.djuu.com/c2/16/2024/48f743daeb837c40.m4a',
       cover:
-        'https://p1.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+        'https://img.djuu.com/upload/hot/202310/3aa827.jpg'
     }
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS

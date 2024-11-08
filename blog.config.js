@@ -356,7 +356,63 @@ const BLOG = {
       artist: 'Helloworld / JT Roach / Blanke / Luma',
       url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/1edbc56f-d9ab-4cca-ba91-de79fe00e013/HELLOWORLD%E3%80%81JT_Roach%E3%80%81Blanke%E3%80%81Luma_-_Used_to_Losing_You_(Explicit).mp3?table=block&id=c2304809-2bcd-4c10-8004-039a9c6a048c&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731153600000&signature=L3n_KfxQcqt3W3pSR80sYKRs3ZrNeNlktS-rkxp7J8c&downloadName=HELLOWORLD%E3%80%81JT+Roach%E3%80%81Blanke%E3%80%81Luma+-+Used+to+Losing+You+%28Explicit%29.mp3',
       cover:
-        'http://p2.music.126.net/SNANZcu5PhfvFvM5Fuq_Rw==/109951167964524207.jpg?param=130y130'
+        'http://p2.music.126.net/YVrEjXe9kc3XCKiIqDg5uQ==/109951168241464795.jpg?param=130y130'
+    },
+    {
+      name: '时间的声音',
+      artist: 'K.D',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/99425e8a-9e22-4799-a1b2-47605b7f8523/K.D_-_%E6%97%B6%E9%97%B4%E7%9A%84%E5%A3%B0%E9%9F%B3.mp3?table=block&id=a5986553-5634-426d-94a2-7bcfd4890578&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731153600000&signature=GoGTq79NK6E-pzvq_kHsuGanVeAu8WAmtYMcUCw3usg&downloadName=K.D+-+%E6%97%B6%E9%97%B4%E7%9A%84%E5%A3%B0%E9%9F%B3.mp3',
+      cover:
+        'https://imge.kugou.com/stdmusic/20230428/20230428125205683582.jpg'
+    },
+    {
+      name: 'Infinity (Slowed & Reverb)',
+      artist: 'Kaushal Shekhawat',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/d9681bae-661b-4d2d-9472-a98666a952c0/Kaushal_Shekhawat_-_Infinity_(Slowed__Reverb).mp3?table=block&id=8b89769f-f8ab-4b83-9215-4b3f0cc1a681&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731153600000&signature=rHNGL8UzW0rBvsLJHCzvNEGwzPLxt955hvydQ9wVScY&downloadName=Kaushal+Shekhawat+-+Infinity+%28Slowed+%26+Reverb%29.mp3',
+      cover:
+        'https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/04/74/5e/04745e76-2ca6-20d5-975c-33f1a10fe41d/cover.jpg/1200x1200bf-60.jpg'
+    },
+    {
+      name: '麦田守望者',
+      artist: 'Cifer',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/3650e980-5487-4613-ba02-290efc07db55/%E9%BA%A6%E7%94%B0%E5%AE%88%E6%9C%9B%E8%80%85_-_Cifer.mp3?table=block&id=4591fe64-fd31-4886-b9b3-28f7679a40ca&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731153600000&signature=pSeWnMTgoTP1PEYRxSVY3bgjFmkV6XDvai3aABCyqD0&downloadName=%E9%BA%A6%E7%94%B0%E5%AE%88%E6%9C%9B%E8%80%85+-+Cifer.mp3',
+      cover:
+        'http://p1.music.126.net/HKyF46ekI7Gd1JRW9JwKHg==/109951168207468627.jpg?param=177y177'
+    },
+    {
+      name: '指纹 ',
+      artist: '杜宣达',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/84fb5105-01e2-4634-96ce-4f4103beb0f9/%E6%8C%87%E7%BA%B9_-_%E6%9D%9C%E5%AE%A3%E8%BE%BE_(mp3cut.net).mp3?table=block&id=63215f43-f770-441f-be53-c86207ef81db&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731160800000&signature=eZCWmvmm_tnI6AnGd2okB5LX1oVf-fK0Uj803tewaEg&downloadName=%E6%8C%87%E7%BA%B9+-+%E6%9D%9C%E5%AE%A3%E8%BE%BE+%28mp3cut.net%29.mp3',
+      cover:
+        'http://p2.music.126.net/kT4AECoc13oVKLEg_-eFMA==/109951166578436098.jpg?param=130y130'
+    },
+    {
+      name: '与我无关',
+      artist: '阿冗',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/ebe35344-5d14-47db-a2de-edcfb98ea248/%E4%B8%8E%E6%88%91%E6%97%A0%E5%85%B3_-_%E9%98%BF%E5%86%97_(mp3cut.net).mp3?table=block&id=349bebb3-244a-4d43-b738-cae222919ddc&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731160800000&signature=uvu1ThOeB227tI8nriHV8IriQCAzicKkg-JHIzhmTu8&downloadName=%E4%B8%8E%E6%88%91%E6%97%A0%E5%85%B3+-+%E9%98%BF%E5%86%97+%28mp3cut.net%29.mp3',
+      cover:
+        'http://p2.music.126.net/x-jReyGkM5OTKUEtTqXGoA==/109951164597332931.jpg?param=130y130'
+    },
+    {
+      name: 'DJ 樱花树下的约定',
+      artist: '恒升Dj阿宸',
+      url: 'https://mp4.djuu.com/c4/22/2023/8fca73cdadc27c40.m4a',
+      cover:
+        'http'
+    },
+    {
+      name: 'DJ 希望你被这个世界爱着',
+      artist: 'Dj豪大大',
+      url: 'https://mp4.djuu.com/c4/41/2023/dba2be5d7aebb4f9.m4a',
+      cover:
+        'https://img.djuu.com/cover/201911/f24de3.jpg'
+    },
+    {
+      name: 'DJ 谁的青春不迷茫',
+      artist: 'DJ57',
+      url: 'https://mp4.djuu.com/c115/88926/117/2024/9e1794d63b046bf3.m4a',
+      cover:
+        'https://img.djuu.com/cover/2023928/b1292f2c.jpg'
     },
     {
       name: 'DJ Faded Slowed V4',
@@ -364,6 +420,41 @@ const BLOG = {
       url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/b99f56f1-7fcb-4a7a-b584-f1b68884ed68/Ada_DJ_-_DJ_Faded_Slowed_V4.mp3?table=block&id=5086b90d-d52c-491e-81d1-fcc51de9f68e&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731153600000&signature=Kt938UDBJisajQM_VYhsy4cCKbmaNgYfFzPYTN4YFF0&downloadName=Ada+DJ+-+DJ+Faded+Slowed+V4.mp3',
       cover:
         'https://p2.music.126.net/hpNqEh7tm67YSoO2v0PvsA==/109951168607628485.jpg?param=130y130'
+    },
+    {
+      name: 'DJ 说好的幸福',
+      artist: 'DJ东东',
+      url: 'https://mp4.djuu.com/c115/64152/117/2024/18149d5798764ca4.m4a',
+      cover:
+        'http'
+    },
+    {
+      name: '关于你的回忆DJ串烧',
+      artist: '南宁Dj阿罗',
+      url: 'https://mp4.djuu.com/c2/16/2023/9b200505f8640380.m4a',
+      cover:
+        'https://img.djuu.com/cover/2023928/76fed753.jpg'
+    },
+    {
+      name: '如果说你是海上的烟火DJ越鼓串烧',
+      artist: 'Dj钢仔',
+      url: 'https://mp4.djuu.com/c2/16/2023/83e2210c65611211.m4a',
+      cover:
+        'http'
+    },
+    {
+      name: '姑娘别哭泣DJ串烧',
+      artist: '湖南DjxGuo',
+      url: 'https://mp4.djuu.com/c2/16/2023/9d76bdac28728599.m4a',
+      cover:
+        'https://img.djuu.com/cover/20231001/8cd458ac.jpg'
+    },
+    {
+      name: '百听不厌高速车载音乐v42串烧',
+      artist: '中山DJ嘉敏',
+      url: 'https://mp4.djuu.com/c2/16/2024/995fc7feca739531.m4a',
+      cover:
+        'https://img.djuu.com/cover/20231001/5a71e1c9.jpg'
     },
     {
       name: '抖音流行DJ串烧',

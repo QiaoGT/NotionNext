@@ -828,6 +828,41 @@ const BLOG = {
         'http://p1.music.126.net/Cd8iZbgv7LYFWKv4MzJZ4w==/109951168015255045.jpg?param=130y130'
     },
     {
+      name: '江语晨 - DJ最后一页',
+      artist: 'Dj小邓',
+      url: 'https://mp4.djuu.com/c4/26/2024/6ea6deb8c3e18845.m4a',
+      cover:
+        'http://imge.kugou.com/stdmusic/20191001/20191001174509470283.jpg'
+    },
+    {
+      name: '阿肆 - DJ热爱105度的你',
+      artist: 'Dj小邓',
+      url: 'https://mp4.djuu.com/c4/26/2024/2abc457865f9c955.m4a',
+      cover:
+        'http://p1.music.126.net/6Herq6VjqEM2wJYiML3y4A==/109951166098679116.jpg?param=130y130'
+    },
+    {
+      name: '单色凌 - DJ我想我不够好',
+      artist: 'DjAn',
+      url: 'https://mp4.djuu.com/c4/26/2024/0cfe5e094903638c.m4a',
+      cover:
+        'http://imge.kugou.com/stdmusic/20200620/20200620080504229934.jpg'
+    },
+    {
+      name: '告五人 - DJ带我去找夜生活',
+      artist: 'Dj泡面',
+      url: 'https://mp4.djuu.com/c4/26/2024/4760bb54e92b7c10.m4a',
+      cover:
+        'http://p1.music.126.net/lmCtt6-3fOPSdA1uwGCY5Q==/109951164567402626.jpg?param=130y130'
+    },
+    {
+      name: '锦零 - DJ豆花之歌',
+      artist: 'Dj小雨',
+      url: 'https://mp4.djuu.com/c4/26/2024/2069e614b1b4dccf.m4a',
+      cover:
+        'https://imge.kugou.com/stdmusic/20220222/20220222060106813121.jpg'
+    },
+    {
       name: '抖音流行 DJ串烧',
       artist: '网络歌手',
       url: 'https://mp4.djuu.com/c2/16/2024/48f743daeb837c40.m4a',

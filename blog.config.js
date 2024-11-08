@@ -408,6 +408,20 @@ const BLOG = {
         'http://imge.kugou.com/stdmusic/20220906/20220906131324119988.jpg'
     },
     {
+      name: 'Used to Losing You',
+      artist: 'Helloworld / JT Roach / Blanke / Luma',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/1edbc56f-d9ab-4cca-ba91-de79fe00e013/HELLOWORLD%E3%80%81JT_Roach%E3%80%81Blanke%E3%80%81Luma_-_Used_to_Losing_You_(Explicit).mp3?table=block&id=c2304809-2bcd-4c10-8004-039a9c6a048c&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731153600000&signature=L3n_KfxQcqt3W3pSR80sYKRs3ZrNeNlktS-rkxp7J8c&downloadName=HELLOWORLD%E3%80%81JT+Roach%E3%80%81Blanke%E3%80%81Luma+-+Used+to+Losing+You+%28Explicit%29.mp3',
+      cover:
+        'http://p2.music.126.net/YVrEjXe9kc3XCKiIqDg5uQ==/109951168241464795.jpg?param=130y130'
+    },
+    {
+      name: 'Infinity (Slowed & Reverb)',
+      artist: 'Kaushal Shekhawat',
+      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/d9681bae-661b-4d2d-9472-a98666a952c0/Kaushal_Shekhawat_-_Infinity_(Slowed__Reverb).mp3?table=block&id=8b89769f-f8ab-4b83-9215-4b3f0cc1a681&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731153600000&signature=rHNGL8UzW0rBvsLJHCzvNEGwzPLxt955hvydQ9wVScY&downloadName=Kaushal+Shekhawat+-+Infinity+%28Slowed+%26+Reverb%29.mp3',
+      cover:
+        'https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/04/74/5e/04745e76-2ca6-20d5-975c-33f1a10fe41d/cover.jpg/1200x1200bf-60.jpg'
+    },
+    {
       name: 'ありがとう… (谢谢…)',
       artist: 'KOKIA',
       url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/f32023c3-743e-4cad-a1ac-20a9b8a92905/KOKIA_-_%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86_(%E8%B0%A2%E8%B0%A2).mp3?table=block&id=ab20c709-dd47-4000-ac25-763ad3c717e8&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731160800000&signature=f5n_Vmi0T1d82x1ltjgo-h_f27K0D0icYwZmaFVlyPk&downloadName=KOKIA+-+%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%E2%80%A6+%28%E8%B0%A2%E8%B0%A2%E2%80%A6%29.mp3',
@@ -443,25 +457,11 @@ const BLOG = {
         'http://imge.kugou.com/stdmusic/20221008/20221008105215539681.jpg'
     },
     {
-      name: 'Used to Losing You',
-      artist: 'Helloworld / JT Roach / Blanke / Luma',
-      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/1edbc56f-d9ab-4cca-ba91-de79fe00e013/HELLOWORLD%E3%80%81JT_Roach%E3%80%81Blanke%E3%80%81Luma_-_Used_to_Losing_You_(Explicit).mp3?table=block&id=c2304809-2bcd-4c10-8004-039a9c6a048c&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731153600000&signature=L3n_KfxQcqt3W3pSR80sYKRs3ZrNeNlktS-rkxp7J8c&downloadName=HELLOWORLD%E3%80%81JT+Roach%E3%80%81Blanke%E3%80%81Luma+-+Used+to+Losing+You+%28Explicit%29.mp3',
-      cover:
-        'http://p2.music.126.net/YVrEjXe9kc3XCKiIqDg5uQ==/109951168241464795.jpg?param=130y130'
-    },
-    {
       name: '时间的声音',
       artist: 'K.D',
       url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/99425e8a-9e22-4799-a1b2-47605b7f8523/K.D_-_%E6%97%B6%E9%97%B4%E7%9A%84%E5%A3%B0%E9%9F%B3.mp3?table=block&id=a5986553-5634-426d-94a2-7bcfd4890578&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731153600000&signature=GoGTq79NK6E-pzvq_kHsuGanVeAu8WAmtYMcUCw3usg&downloadName=K.D+-+%E6%97%B6%E9%97%B4%E7%9A%84%E5%A3%B0%E9%9F%B3.mp3',
       cover:
         'https://imge.kugou.com/stdmusic/20230428/20230428125205683582.jpg'
-    },
-    {
-      name: 'Infinity (Slowed & Reverb)',
-      artist: 'Kaushal Shekhawat',
-      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/d9681bae-661b-4d2d-9472-a98666a952c0/Kaushal_Shekhawat_-_Infinity_(Slowed__Reverb).mp3?table=block&id=8b89769f-f8ab-4b83-9215-4b3f0cc1a681&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731153600000&signature=rHNGL8UzW0rBvsLJHCzvNEGwzPLxt955hvydQ9wVScY&downloadName=Kaushal+Shekhawat+-+Infinity+%28Slowed+%26+Reverb%29.mp3',
-      cover:
-        'https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/04/74/5e/04745e76-2ca6-20d5-975c-33f1a10fe41d/cover.jpg/1200x1200bf-60.jpg'
     },
     {
       name: '麦田守望者',

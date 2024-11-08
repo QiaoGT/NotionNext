@@ -667,6 +667,48 @@ const BLOG = {
         'https://imgessl.kugou.com/stdmusic/20230707/20230707145719742668.jpg'
     },
     {
+      name: 'DJ蔡健雅 - Letting Go',
+      artist: 'DjRn',
+      url: 'https://mp4.djuu.com/c4/26/2024/49318c0350787e82.m4a',
+      cover:
+        'https://imgessl.kugou.com/stdmusic/20220408/20220408121218498989.jpg'
+    },
+    {
+      name: '陈雪凝 - DJ绿色',
+      artist: 'Dj六少飞',
+      url: 'https://mp4.djuu.com/c4/26/2024/7b3609110d9fef62.m4a',
+      cover:
+        'http://p2.music.126.net/R4ZP3AJ9xV0vvw8LX7AbMA==/109951163860425334.jpg?param=130y130'
+    },
+    {
+      name: '言瑾羽 - DJ未必',
+      artist: 'Dj六少飞',
+      url: 'https://mp4.djuu.com/c4/26/2024/5c15f6c41c2f9081.m4a',
+      cover:
+        'http://p1.music.126.net/A65wzMHAqccx3IU8GYKyEA==/109951169244595192.jpg?param=130y130'
+    },
+    {
+      name: '孙语赛vs萧全 - DJ不仅仅是喜欢',
+      artist: 'DjYg',
+      url: 'https://mp4.djuu.com/c4/21/2018/de87f6b04f6fe3a2.m4a',
+      cover:
+        'https://p2.music.126.net/SLKWLEray70Ki8VlHo1Vig==/109951163974008645.jpg?param=130y130'
+    },
+    {
+      name: '就是南方凯 - DJ离别开出花',
+      artist: 'Dj桃子啊',
+      url: 'https://mp4.djuu.com/c4/26/2024/51e4254c2bc70fc2.m4a',
+      cover:
+        'http://p1.music.126.net/MgrERz_auwIi5Km64TxwjQ==/109951169154658797.jpg?param=177y177'
+    },
+    {
+      name: '赵方婧 - DJ尽头',
+      artist: 'DJK2',
+      url: 'https://mp4.djuu.com/c115/16502/117/2023/2b032af31bf60382.m4a',
+      cover:
+        'https://imge.kugou.com/stdmusic/20200708/20200708162704632520.jpg'
+    },
+    {
       name: '抖音流行 DJ串烧',
       artist: '网络歌手',
       url: 'https://mp4.djuu.com/c2/16/2024/48f743daeb837c40.m4a',

@@ -548,13 +548,6 @@ const BLOG = {
         'https://p2.music.126.net/hpNqEh7tm67YSoO2v0PvsA==/109951168607628485.jpg?param=130y130'
     },
     {
-      name: 'DJ 美丽的神话',
-      artist: 'Dj伦大人',
-      url: 'https://mp4.djuu.com/c4/26/2023/83c3d719e0596aa1.m4a',
-      cover:
-        'https://img.djuu.com/cover/201902/bb2057.jpg'
-    },
-    {
       name: 'DJ 说好的幸福',
       artist: 'DJ东东',
       url: 'https://mp4.djuu.com/c115/64152/117/2024/18149d5798764ca4.m4a',
@@ -1022,6 +1015,13 @@ const BLOG = {
       url: 'https://mp4.djuu.com/c4/26/2024/d41c7d265cad3cbd.m4a',
       cover:
         'http://p1.music.126.net/4LuKCZHLwmXLBeTY_t0Qjw==/109951164781178865.jpg?param=130y130'
+    },
+    {
+      name: 'DJ 美丽的神话',
+      artist: 'Dj伦大人',
+      url: 'https://mp4.djuu.com/c4/26/2023/83c3d719e0596aa1.m4a',
+      cover:
+        'https://img.djuu.com/cover/201902/bb2057.jpg'
     },
     {
       name: '田馥甄 - DJ你就不要想起我',

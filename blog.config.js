@@ -310,13 +310,6 @@ const BLOG = {
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
-      name: '若是月亮还没来',
-      artist: '王宇宙Leto / 乔浚丞',
-      url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/5d230b8d-f8a4-4e98-a7fd-f18af361f738/%E8%8B%A5%E6%9C%88%E4%BA%AE%E6%B2%A1%E6%9D%A5_(%E8%8B%A5%E6%98%AF%E6%9C%88%E4%BA%AE%E8%BF%98%E6%B2%A1%E6%9D%A5)_-_%E7%8E%8B%E5%AE%87%E5%AE%99Leto%E3%80%81%E4%B9%94%E6%B5%9A%E4%B8%9E.mp3?table=block&id=69535408-6026-4f57-b5f9-645cbc76d59a&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731153600000&signature=6ev7-HKKAntvJdDpe9L4IRdvs1evWp7bPfNmhWINRbE&downloadName=%E8%8B%A5%E6%9C%88%E4%BA%AE%E6%B2%A1%E6%9D%A5+%28%E8%8B%A5%E6%98%AF%E6%9C%88%E4%BA%AE%E8%BF%98%E6%B2%A1%E6%9D%A5%29+-+%E7%8E%8B%E5%AE%87%E5%AE%99Leto%E3%80%81%E4%B9%94%E6%B5%9A%E4%B8%9E.mp3',
-      cover:
-        'https://imgessl.kugou.com/stdmusic/20240122/20240122171638637928.jpg'
-    },
-    {
       name: '天空没有极限',
       artist: 'G.E.M. 邓紫棋',
       url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/27158680-7653-4733-8db2-76beb2432f08/G.E.M._%E9%82%93%E7%B4%AB%E6%A3%8B_-_%E5%A4%A9%E7%A9%BA%E6%B2%A1%E6%9C%89%E6%9E%81%E9%99%90.mp3?table=block&id=565fa2dc-c87c-4593-bcf5-9b29859e8fe5&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731146400000&signature=yT8JoOToEN4aa3IhfrUU0ypKwnaApLoZom8Ipj6eS7M&downloadName=G.E.M.+%E9%82%93%E7%B4%AB%E6%A3%8B+-+%E5%A4%A9%E7%A9%BA%E6%B2%A1%E6%9C%89%E6%9E%81%E9%99%90.mp3',

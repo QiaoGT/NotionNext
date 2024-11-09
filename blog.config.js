@@ -302,7 +302,7 @@ const BLOG = {
   MUSIC_PLAYER_VISIBLE: process.env.NEXT_PUBLIC_MUSIC_PLAYER_VISIBLE || true, // 是否在左下角显示播放和切换，如果使用播放器，打开自动播放再隐藏，就会以类似背景音乐的方式播放，无法取消和暂停
   MUSIC_PLAYER_AUTO_PLAY:
     process.env.NEXT_PUBLIC_MUSIC_PLAYER_AUTO_PLAY || false, // 是否自动播放，不过自动播放时常不生效（移动设备不支持自动播放）
-  MUSIC_PLAYER_LRC_TYPE: process.env.NEXT_PUBLIC_MUSIC_PLAYER_LRC_TYPE || '0', // 歌词显示类型，可选值： 3 | 1 | 0（0：禁用 lrc 歌词，1：lrc 格式的字符串，3：lrc 文件 url）（前提是有配置歌词路径，对 meting 无效）
+  MUSIC_PLAYER_LRC_TYPE: process.env.NEXT_PUBLIC_MUSIC_PLAYER_LRC_TYPE || '3', // 歌词显示类型，可选值： 3 | 1 | 0（0：禁用 lrc 歌词，1：lrc 格式的字符串，3：lrc 文件 url）（前提是有配置歌词路径，对 meting 无效）
   MUSIC_PLAYER_CDN_URL:
     process.env.NEXT_PUBLIC_MUSIC_PLAYER_CDN_URL ||
     'https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-M/1.10.1/aplayer/APlayer.min.js',
@@ -315,7 +315,7 @@ const BLOG = {
       url: 'https://file.notion.so/f/f/c5f193f6-61cd-47c5-82f2-ac6fc975398b/5d230b8d-f8a4-4e98-a7fd-f18af361f738/%E8%8B%A5%E6%9C%88%E4%BA%AE%E6%B2%A1%E6%9D%A5_(%E8%8B%A5%E6%98%AF%E6%9C%88%E4%BA%AE%E8%BF%98%E6%B2%A1%E6%9D%A5)_-_%E7%8E%8B%E5%AE%87%E5%AE%99Leto%E3%80%81%E4%B9%94%E6%B5%9A%E4%B8%9E.mp3?table=block&id=69535408-6026-4f57-b5f9-645cbc76d59a&spaceId=c5f193f6-61cd-47c5-82f2-ac6fc975398b&expirationTimestamp=1731153600000&signature=6ev7-HKKAntvJdDpe9L4IRdvs1evWp7bPfNmhWINRbE&downloadName=%E8%8B%A5%E6%9C%88%E4%BA%AE%E6%B2%A1%E6%9D%A5+%28%E8%8B%A5%E6%98%AF%E6%9C%88%E4%BA%AE%E8%BF%98%E6%B2%A1%E6%9D%A5%29+-+%E7%8E%8B%E5%AE%87%E5%AE%99Leto%E3%80%81%E4%B9%94%E6%B5%9A%E4%B8%9E.mp3',
       cover:
         'https://imgessl.kugou.com/stdmusic/20240122/20240122171638637928.jpg',
-      lrc: '王宇宙Leto、乔浚丞 - 若月亮没来 (若是月亮还没来).lrc'
+      lrc: 'https://github.com/QiaoGT/wobNotionNext/blob/main/LRC/%E7%8E%8B%E5%AE%87%E5%AE%99Leto%E3%80%81%E4%B9%94%E6%B5%9A%E4%B8%9E%20-%20%E8%8B%A5%E6%9C%88%E4%BA%AE%E6%B2%A1%E6%9D%A5%20(%E8%8B%A5%E6%98%AF%E6%9C%88%E4%BA%AE%E8%BF%98%E6%B2%A1%E6%9D%A5).lrc'
     },
     {
       name: '天空没有极限',
